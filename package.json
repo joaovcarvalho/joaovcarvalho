@@ -1,0 +1,22 @@
+{
+  "name": "sciotta.design",
+  "version": "1.0.0",
+  "description": "My design domain website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagog3/sciotta.design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagog3/sciotta.design/issues"
+  },
+  "homepage": "https://github.com/thiagog3/sciotta.design#readme",
+  "dependencies": {
+    "circular-std": "^1.0.3"
+  }
+}
