@@ -24,7 +24,7 @@ github_username:  joaovcarvalho
 
 plainwhite:
   name: João Carvalho
-  tagline: Developer.
+  tagline: Knowledge Worker and Software Engineer
   date_format: "%d/%m/%Y"
   analytics_id: UA-158602691-1
   portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
