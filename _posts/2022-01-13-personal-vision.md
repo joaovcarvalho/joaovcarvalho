@@ -33,7 +33,7 @@ Reference of things I bought:
 
 This section can give your next financial goals and also change how you deal with your material possessions. If you want to be a more minimalist, try starting to eliminate from your life what’s not really necessary. If you wish to have enough to help others, try to think how much that is and how can you achieve it in a timely fashion.
 
-## 🏄‍♂️ To experience: what do you to have done in the future
+## 🏄‍♂️ To experience: what do you want to have done in the future
 In this section, we think about experiences: events that are ephemeral and just live beyond as memories. You can also think about routines and daily/weekly/annual experiences. Examples:
 > travel, party, have deep conversations, love someone, feel adrenaline, write, think, exercise, learn, taste, smell, explain, study
 
