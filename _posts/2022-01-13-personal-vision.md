@@ -5,7 +5,6 @@ date:   2022-02-13 17:11:41 -0300
 categories: english planning
 ---
 
-## 🤔 Why you need a vision document to have a richer life
 To have a richer life, we need to focus on what it’s **important** to us. Every decision we make needs to be aligned with what we want for our future, or else we can end up in a different life. A vision can be the **compass** to guide us through life. We must have the discipline to align our decisions and actions to the vision.
 
 A personal vision document is a place where you write down the vision you want for your life in the future. By doing a personal vision document, we can have a more detailed visualization of what it’s essential to us. Being intentional and mindful about what we want to be, to have and to experience. We will start by using those 3 verbs to brainstorm our vision.
