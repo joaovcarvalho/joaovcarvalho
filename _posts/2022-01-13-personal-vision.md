@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to make a Personal Vision document 👀"
+title:  "How to make a Personal Vision document 🧭"
 date:   2022-02-13 17:11:41 -0300
 categories: english planning
 ---
@@ -33,7 +33,7 @@ Reference of things I bought:
 
 This section can give your next financial goals and also change how you deal with your material possessions. If you want to be a more minimalist, try starting to eliminate from your life what’s not really necessary. If you wish to have enough to help others, try to think how much that is and how can you achieve it in a timely fashion.
 
-## 🏝 To experience: what do you to have done in the future
+## 🏄‍♂️ To experience: what do you to have done in the future
 In this section, we think about experiences: events that are ephemeral and just live beyond as memories. You can also think about routines and daily/weekly/annual experiences. Examples:
 > travel, party, have deep conversations, love someone, feel adrenaline, write, think, exercise, learn, taste, smell, explain, study
 
@@ -42,7 +42,7 @@ You can add concrete references:
 
 Having this list, we can plan out how and when are going to those things. Bigger things like travels and expensive experiences can become financial goals. Routine items can become part of a lifestyle planning where you incorporate into your life. 
 
-## 🖼 Conclusion: the full picture of your life
+## 🧭 Conclusion: the full picture of your life
 This activity has given me a full picture of what I love and appreciate in life. This vision can now guide me in my future decisions. For example: what should I do next weekend? Thinking that one of my words in the to experience category is party, I should then throw a party for my friends where we may have deep conversations. Another example of decision that may branch out of the vision: in any of my areas, I gave any word related to using social medias. I can avoid thinking about using them because they are not aligned with my personal vision for my life.
 
 In an era of information load, being focused on what it is essential can be a superpower. While people go through life confused and overwhelm, you can go through the optimal path to achieve your ideal life. You can eliminate what’s not part of that and have more time and freedom for the beautiful and amazing.
