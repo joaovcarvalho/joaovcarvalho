@@ -20,7 +20,7 @@ How having a vision can benefit your life:
 
 ![Looking into the unknown](/assets/compass.jpg)
 
-## 🕶 How to create a vision document by using the 3 verbs: to be, to have and to experiment
+## 🕶 How to create a vision document by using the 3 verbs: to be, to have and to experience
 To start off with our vision, we need to have a brainstorm to extract from our mind and our past what it’s influential to us and also what we intend to achieve in the future. I like to use the three verbs: to be, to have and to experience. This way I have a framework in which I can brainstorm. I use a notebook to write down (writing down in paper help me focus and be mindful). I write the verb in the middle of the page and write the words that come to my mind around it. Each word has additional things we can use as references. Let’s start by the first verb: to be.
 
 ## 🙋‍♀️ To be: how you see yourself in the future
