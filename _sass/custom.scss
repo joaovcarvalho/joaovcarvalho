@@ -1,0 +1,53 @@
+.post { 
+    font-family: Avenir,Tahoma,sans-serif;
+
+	blockquote, ul, ol {
+		background-color: #f8fcff
+	}
+
+	blockquote {
+		color: #264a70;
+		// font-weight: bold;
+		margin-inline-start: 0;
+		padding-left: 20px;
+
+	    color: #264a70;
+	    font-size: 21px;
+	    line-height: 33px;
+	    font-weight: 200;
+	    text-align: left;
+	    letter-spacing: -.1px;
+
+	    box-shadow: 0 4px 14px -10px rgba(0,89,156, .07);
+	}
+
+	p {
+	    margin-top: 0;
+	    margin-bottom: 16px;
+	    clear: both;
+	    font-size: 17px;
+	    line-height: 25px;
+	    font-weight: 200;
+	    letter-spacing: .25px;
+	    text-transform: none;
+	}
+
+	ul, ol { 
+	    margin-top: 21px;
+	    margin-bottom: 25px;
+	    padding: 19px 18px 0 30px;
+	    clear: both;
+	    border: 1px solid rgba(76,183,221,.02);
+	    border-radius: 2px;
+	    background-color: #f8fcff;
+	    box-shadow: 0 4px 14px -10px rgba(0,89,156, .5);
+	    color: #182027;
+	    // line-height: 16px;
+	    // letter-spacing: .12px;
+	    list-style-type: disc;
+	}
+
+	ul li, ol li {
+		list-style-image: url("https://uploads-ssl.webflow.com/54a5a40be53a05f34703dd18/5886a3207f370b4e05e9f599_List%20Bullet.svg");
+	}
+}

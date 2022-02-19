@@ -1,13 +1,22 @@
 ---
 layout: post
-title:  "How to make a Personal Vision document 🧭"
+title:  "Optimize your life: create a vision and guide yourself to your ideal life 🧭"
 date:   2022-02-13 17:11:41 -0300
 categories: english planning
 ---
 
-To have a richer life, we need to focus on what it’s **important** to us. Every decision we make needs to be aligned with what we want for our future, or else we can end up in a different life. A vision can be the **compass** to guide us through life. We must have the discipline to align our decisions and actions to the vision.
+To have a richer life, we need to focus on what it’s **important** to us. Every decision we make needs to be aligned with what we want for our future, or else we can end up in a different life. Most of people go to through life improvising and going with the flow. Although there is nothing wrong with that, we can thrive to optimize this process by having a North Star to guide ourselves. A vision can be the **compass** to guide us through life. 
 
-A personal vision document is a place where you write down the vision you want for your life in the future. By doing a personal vision document, we can have a more detailed visualization of what it’s essential to us. Being intentional and mindful about what we want to be, to have and to experience. We will start by using those 3 verbs to brainstorm our vision.
+> There is no favorable wind for the sailor who doesn’t know where to go - Seneca
+
+A personal vision document is a place where you write down the vision you want for your life in the future. By doing a personal vision document, we can have a more detailed visualization of what it’s **essential** to us. Being intentional and mindful about what we want to be, to have and to experience. We will start by using those 3 verbs to brainstorm our vision.
+
+How having a vision can benefit your life:
+1. It gives you focus areas of improving yourself
+2. It shows you what really makes you happy
+3. It inspires you for your next objectives in life like financial goals or experiences you want to live
+4. It gives the superpower of being focused in a world with an overload of information and distractions.
+
 
 ![Looking into the unknown](/assets/compass.jpg)
 

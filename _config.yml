@@ -35,6 +35,9 @@ plainwhite:
     linkedIn: in/joaovec
     # rss: rss
 
+  dark_mode: true
+  search: true
+
 # Build settings
 markdown: kramdown
 remote_theme: thelehhman/plainwhite-jekyll
