@@ -36,7 +36,6 @@ plainwhite:
     # rss: rss
 
   dark_mode: true
-  search: true
 
 # Build settings
 markdown: kramdown
