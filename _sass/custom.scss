@@ -1,3 +1,13 @@
+.dark {
+	.post {
+		blockquote, ul, ol {
+			background-color: #171717;
+			border: 0;
+			box-shadow: none;
+		}
+	}
+}
+
 .post { 
     font-family: Avenir,Tahoma,sans-serif;
 
