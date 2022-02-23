@@ -15,7 +15,7 @@ In this article, I will cover learnings and techniques that can help you better 
 4. Applying learnings to other teams and contexts
 
 ## Understanding the complexity and nature of development teams
-A software development team is a knowledge producing self regulated and goal-oriented system. Software engineers learn from managers, stakeholders and other engineers about the problem domain and transform this knowledge in working software. This involves taking decisions and modeling the domain in the terms that the machine understand. 
+A software development team is a knowledge producing self regulated and goal-oriented system. Software engineers learn from managers, stakeholders and other engineers about the problem domain and transform this in working software. This involves taking decisions and modeling the domain in the terms that the machine understand. 
 
 ![Teams connections](/assets/software_eng_teams.png)
 
@@ -23,25 +23,25 @@ As the software grows, complexity comes in. No one individual can know everythin
 
 That’s when we come to the self regulated part of the team definition. Teams adapt and evolve without the need of external controls. This is not only desired, but it’s a consequence of increased complexity, as more and more decisions are left in the limbo of meetings and committees. If teams have no autonomy, the organization tends to slow down as problems persist until management address them. Giving the team autonomy allows them to solve problems at the level where they are experiencing. 
 
-As the team changes and evolves, we can’t guarantee that the changes come to the benefit of not only the individual but the company as a whole. This is one of the reasons why managers don’t allow teams to have autonomy. 
+As the team changes and evolves, we can’t guarantee that the changes come to the benefit of not only the individual but the company as a whole. This is one of the reasons why some managers don’t allow teams to have autonomy. 
 
-That’s when the goal-oriented part comes in. The goal of the team act as an external (or internal) constrain. That’s why we need to be cautious about defining goals, teams will optimize for what you measure. Every work needs to be related to the goal of the company, or else we risk not moving the needle. 
+That’s when the goal-oriented part comes in. The goal of the team act as an external (or internal) constrain. That’s why we need to be cautious about defining goals, teams will optimize for what you measure. Every work needs to be related to the goal of the company, or else we risk not moving the needle.
 
 ## The one thing essential you must provide to employees
 > In self regulated systems, rather than energy and force, it is information communication, and purpose that are the most important factors. — Jurgen Appelo
 
-All actors in the team must have the knowledge necessary to work. The more quality knowledge you can provide your team, the better will be their decisions and adaptability. This ultimately will determine the success of the company.
+All actors in the team must have the knowledge necessary to work. The more quality knowledge you can provide your team, the better will be their decisions and adaptability. This will determine the success of the company.
 
 Increased communication between the team can also increase knowledge sharing. People need knowledge at hand to solve current challenges. As complexity increases, no one has the full picture. That’s why we require easy ways of communicating and sharing knowledge. Having a clear purpose and objective can guide people through the sea of decisions of an open-ended question that is the software development. 
 
 Initiatives like the transparency culture, preached by Netflix’s CEO in his recent book, demonstrate the power of having more communication and information. Having the autonomy to act on the knowledge, it’s a critical factor to teams to adapt and evolve to generate more value to the company. 
 
 ## Dealing with the complexity through understanding control.
-In a fast-paced and complex environment as an IT company, we can’t have the expectation of controlling every aspect of it. Instead, we often see decisions being made by at different levels of the organization. This makes the organization more adaptable to an ever-changing world. Smart companies social network are more distributed and not like a hierarchical tree. Allowing connections to be made in different levels and subtrees can increase the connectivity of the network and information flow.
+In a fast-paced and complex environment as an IT company, we can’t have the expectation of controlling every aspect of it. Instead, we often see decisions being made by at different levels of the organization. This makes the organization more adaptable to an ever-changing world. At smart companies, the social network is more distributed and not like a hierarchical tree. Allowing connections to be made in different levels and subtrees can increase the connectivity of the network and information flow.
 
 ![Company communication](/assets/hierarchical_communication.png)
 
-Delegation of control is a manager’s way of controlling complex systems. You push decisions and responsibilities down to a level where someone has information that is smaller and more accurate.
+Delegation of control is a manager’s way of controlling complex systems. You push decisions and responsibilities down to a level where someone has more accurate information.
 
 > If you give employees more freedom instead of developing processes to prevent them from exercising their own judgment, they will make better decisions and it’s easier to hold them accountable. — Reed Hasting
 
