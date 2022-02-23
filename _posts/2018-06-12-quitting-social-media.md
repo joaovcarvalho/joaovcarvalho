@@ -22,14 +22,14 @@ Since I am not updated with the latest news about other people, it has become mo
 Furthermore, I don't receive that viral content of people with very different lifestyles than me. That whole illusion from social media that everyone is happy and has a perfect life. Social media can have a strong bias toward keeping a good image, which for many people can create this image that other's life are way better than ours.
 ## 3 — When I meet my friends, I had more to talk about
 When I meet my real close friends, we have more to talk about. I didn’t see all their stories or posts, so they got to tell me all their stories in real life. Before it was like:
+- Friend: Hey, I did X this weekend.
+- Me: Yes, I have seen on your Instagram.
+- Friend: Cool. (End of the story).
 
-Friend: Hey, I did X this weekend.
-Me: Yes, I have seen on your Instagram.
-Friend: Cool. (End of the story).
 Now It will be more like this:
-Friend: Hey, I did X this weekend.
-Me: Wow, that's cool, tell me more.
-Friend: Okay! So, I was skydiving with… (Proceeds to tell me a 20-minute story)
+- Friend: Hey, I did X this weekend.
+- Me: Wow, that's cool, tell me more.
+- Friend: Okay! So, I was skydiving with… (Proceeds to tell me a 20-minute story)
 
 ## 4 — I became more productive at work
 Since I don't have these apps installed on my smartphone, I cannot pick up when I feel bored at work. I started using my boredom as a way to do productive things. When I get bored at work, I look for activities that can be useful but are different from the ones I am doing now.
