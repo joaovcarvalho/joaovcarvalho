@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Changing mindset from short-term to long-term"
-date:   2022-03-02 23:36:41 -0300
+date:   2022-03-04 23:36:41 -0300
 categories: english planning
 ---
 
