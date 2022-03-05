@@ -28,35 +28,35 @@ If that’s true for companies, we can also extend that importance to our person
 
 ## Why people don’t think about the long term
 
-In practice, carving out time for long-term thinking can be difficult. There are stakeholders in our professional and personal lives that make it difficult not to focus on the short term. Having multiple commitments that we feel like don’t have any more time. Managing not only time, but also our energy and force of will. 
+In practice, carving out time for long-term thinking can be difficult. There are stakeholders in our professional and personal lives that make it difficult not to focus on the short term. Having multiple commitments that makes we feel like we don’t have any time left. We have to manage not only time, but also our energy and force of will.
 
-Even when we stop to think about it, we don’t know what we truly want. For some, it can feel intimidating and even scary to deal with this. In a previous article, I explained [how to create a personal vision](/english/planning/personal-vision/). This can be a great first step to know what you want.
+Even when we stop to think about it, we don’t know what we truly want. It can feel intimidating and even scary to deal with this. In a previous article, I explained [how to create a personal vision](/english/planning/personal-vision/). This can be a great first step to know what you want.
 
 At the end of the day, becoming focused on the long term requires courage. You need to carve your path, amidst the pressure and without reassurance from everyone else.
 
 ## How to star prioritizing the long term
 
-In this endeavor, we must resist the people-pleasing process of saying yes to all commitments thrown at us. You have to resist following the status quo, as it may not be aligned with your long-term vision. Moreover, having too much on our plate, in terms of volume, can lead to ill situations like burnout. It becomes critical to have less working in process items.
+In this endeavor, we must resist the people-pleasing process of saying yes to all commitments thrown at us. You have to resist following the status quo, as it may not be aligned with your long-term vision. Moreover, having too much on our plate, in terms of volume, can lead to ill situations like burnout. It becomes critical to have less working in process items. This will not only allow you to focus, but reduce anxiety and pressure in your mind.
 
-You may not know what is the best path for you. Finding out what interests you and can be pursued as a career can time a considerable amount of time. Watch closely how you spend your spare time, pick up the clues of your mind and _know thyself_. This can help hugely, designing a long-term plan that aligns with yourself and adapting as you changes.
+You may not know what is the best path for you. Finding out what interests you and can be pursued as a career can take a considerable amount of time. Watch closely how you spend your spare time, pick up the clues of your mind and _know thyself_. This can help hugely, designing a long-term plan that aligns with yourself and adapting as you changes.
  
-As you go unto the wilderness of wandering outside the status quo, things may not work out yet. Being resilient and adaptable can help you not come back to old habits. Having multiple plans can help you not to get stuck along the way.
+As you go unto the wilderness of wandering outside the status quo, things may not work out yet. Due to the non-linear nature of the world, sometimes you need to get worse before getting better. One example of this is quitting smoking. In the short time, you may feel worse due to withdraw symptoms. Being resilient and adaptable can help you not come back to old habits. Having multiple plans can help you not to get stuck along the way.
 
-Allowing yourself time to explore can help you understand all your interests. [Google says it still uses the '20-Percent Rule'](https://www.inc.com/bill-murphy-jr/google-says-it-still-uses-20-percent-rule-you-should-totally-copy-it.html). This rule says that Google's employees can spend 20% of their time on what they think it will benefit Google the most. This empowers them to be more creative and innovative, says co-founders Larry Page and Sergey Brin in a writing in 2004, before the company's IPO. We can learn from companies and implement this in our lives.
+Allowing yourself time to explore can help you understand all your interests. [Google says it still uses the '20-Percent Rule'](https://www.inc.com/bill-murphy-jr/google-says-it-still-uses-20-percent-rule-you-should-totally-copy-it.html). This rule says that Google's employees can spend 20% of their time on what they think it will benefit Google the most. This empowers them to be more creative and innovative, says co-founders Larry Page and Sergey Brin in a writing in 2004, before the company's IPO. We can learn from companies and implement this in our lives. This may help we innovate in our personal lives and discover new paths of interests.
 
 There are no guarantees that you will succeed, but playing the long-term game is the best strategy. It requires dedication, vision, and commitment. You need to patiently work towards you and also at the same time enjoy the process. Thinking in the long term had the positive outcome of reducing my anxiety, which gave me more freedom to act. One of the things to watch out it is not to create expectations for the short-term and not being too happy with short-term results. Believe in the process. 
 
 ## Drawbacks 
 
-While working toward the long term, no validation will be provided to you. It can also be that someone can give you a hard time and attempt to convince you to give up this strategy. 
+While working toward the long term, no validation will be provided to you. It can also be that someone can give you a hard time and attempt to convince you to give up this strategy. This can happen due to lack of vision that blocks them from seeing beyond the short term.
 
-No one is going to give praise or credits on what is invisible and pays off only in the long term. Our linear thinking minds see the world as a place full of easily explainable events with simple causes and simple effects. Gerald Weinberg called it the Causation Fallacy, Weinberg, 1992:90. Therefore, we expect results to be this simple: cause and effect, linear, fast. You should endeavor to see beyond that because we live in a complex world where cause and effect can be hugely separate and complex.
+No one is going to give praise or credits on what is invisible and pays off only in the long term. Our linear thinking minds see the world as a place full of easily explainable events with simple causes and simple effects. Gerald Weinberg called it the Causation Fallacy, [Weinberg, 1992:90]. Therefore, we expect results to be this simple: cause and effect, linear, fast. You should endeavor to see beyond that because we live in a complex world where cause and effect can be hugely separate.
 
 ## Benefits of prioritizing the long term
 
-Prioritizing the long term can give you a fuller view of life. This can be used to design your ideal lifestyle. Things like investing in multiple revenue-streams. We often invest all our time and energy into only one thing—typically our day job. Instead, we can diversify our career and think what we will be doing in 10+ years, instead of just meeting the quarterly goals.
+Prioritizing the long term can give you a wider view of life. This can be used to design your ideal lifestyle. Things like investing in multiple revenue-streams. We often invest all our time and energy into only one thing—typically our day job. Instead, we can diversify our career and think what we will be doing in 10+ years, instead of just meeting the quarterly goals.
 
-This long-term vision can create a career insurance, as Dory Clark states. Exploring your time to learn new skills, investing in connections and keeping your hire-ability high.  
+This long-term vision can create a career insurance, as you become more employable. Exploring your time to learn new skills, investing in connections and keeping your employability high.
 
 Long-term relationships are also a great plus of this vision. In a world of liquid relationships (Zygmunt Bauman), having strong and profound relationship that are based on the long term and not only in the short-term sale or benefit. 
 
