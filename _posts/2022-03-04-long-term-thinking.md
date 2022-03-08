@@ -67,3 +67,7 @@ Long-term relationships are also a great plus of this vision. In a world of liqu
 3. We can start thinking about the long term by working in our vision, resilience, curiosity, dedication, and adaptability.
 4. There are common drawbacks: no external validation and simplification.
 5. There’s light at the end of the tunnel: the benefits like creating more diversification, career insurance and great relationships. 
+
+## References
+- [How Becoming A Long-Term Thinker Will Significantly Improve Your Life And Career](https://www.forbes.com/sites/kathycaprino/2021/09/13/how-becoming-a-long-term-thinker-will-significantly-improve-your-life-and-career/?sh=2170787c777f)
+- [Three habits to master long-term thinking](https://bigthink.com/smart-skills/long-term-thinking/)
