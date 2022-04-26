@@ -22,7 +22,7 @@ In this article, we are going to explore broadly how to get started:
 
 There is an invisible dark cloud over our heads. In the great work of Daniel Kahneman, we can see a glimpse of the nature of it. This cloud keeps us from being perfectly rational. There are common mistakes we all do while thinking. These commons mistakes are like a mirage for our brain. 
 
-![Cloud](/assets/cloud.jpg)
+![Cloud](/assets/dark_cloud_over_thinking.jpg)
 
 One of the first biases we noticed is the tendency that our attention is drawn to things that confirm our existing beliefs. This is called confirmation bias. Our brain likes to take shortcuts and save energy. There is a considerate amount of energy we need to spend to change our minds and consider new information that disagree with our rooted beliefs. So we avoid doing it. 
 
@@ -38,7 +38,7 @@ Biases are common pitfalls that can take us into a wrong direction. They are als
 
 ## Considering the complexity of the world: probabilities, luck and hidden information
 
-![Cloud](/assets/dices.jpg)
+![Cloud](/assets/luck_and_dices.jpg)
 
 Even with a clear mind, there is a complexity that is part of the nature of the world. When you try to forecast the weather for more than a week, like consulting the weather agencies, you see that it is pretty hard to be accurate. There is an immeasurable amount of air particles involved in this process and different conditions that form a network of variables that makes it virtually impossible to forecast. 
 
@@ -108,7 +108,7 @@ As we have seen in previous sections, there are factors that are outside our con
 
 ## Building a decision framework from scratch: checklists, decisions records and structure
 
-![Planning](/assets/plan.jpg)
+![Planning](/assets/check_list_an_ideas.jpg)
 
 Now equipped with all the information from the previous section, we can finally work on our own decision framework. A decision framework is a toolbox made to guarantee that your decision covers all the important bits. We are going to leverage our learning to create a methodology in which we can take decisions. This methodology will cover a checklist and structure to work on our decisions, while also documenting them. This idea draws inspiration from [ADR (Architecture Decision Records)](https://adr.github.io/).
 
